@@ -1,3 +1,3 @@
-# Global Azure 2025 - Vietnam
+# Global Azure 2026 - Vietnam
 
- https://devcafevn.github.io/globalazure2025
+ https://devcafevn.github.io/globalazure2026

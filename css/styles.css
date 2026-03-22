@@ -865,7 +865,7 @@ html {
   }
 
   .container-banner {
-    padding-top: 25%;
+    padding-top: 22%;
   }
 
   .big-title {
@@ -1282,4 +1282,17 @@ html {
   /* .speakers-sponsor-background { */
   /* height: 125vw; */
   /* } */
+}
+
+.gradient-text {
+  background: linear-gradient(90deg, #F4AB41, #ED1C24);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: bold;
+  font-size: calc(2vw + 2vh);
+  line-height: 80%;
+  margin-top: 10px;
+  padding-bottom: 20px;
+  border-bottom: #62666a 1px solid;
 }
